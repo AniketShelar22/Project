@@ -1,0 +1,4 @@
+class Example{
+public static void main(string[] args){
+Sustem.out.println("Straw hat");}	
+}
